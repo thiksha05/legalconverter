@@ -1,0 +1,29 @@
+/* Contact.css */
+
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-container p {
+    font-size: 16px;
+  }
+  
+  .contact-container ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .contact-container li {
+    margin-bottom: 10px;
+  }
+  
